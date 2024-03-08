@@ -1,2 +1,2 @@
 # textutils
-This is the demo of reactjs app.
+ this a demo of react js app
